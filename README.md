@@ -1,18 +1,18 @@
 ...............................
-#Nombre del script: Irparpayaña
+#Nombre del script: dk029
 ...............................
 #Significado: Acompañar a uno hasta ponerlo en camino 
-#Lengua: Aymara - Perú
+#Lengua: french - France
 ..............................
 .........................
-#NAME SCRIPT: Irparpayaña
+#NAME SCRIPT: dk029
 .........................
-#Irparpayaña meaning = Accompany one to put it on the road.
-#Language: Aymara - Perú 
+#dk029 meaning = Accompany one to put it on the road.
+#Language: French - France 
 .........................
 
-#Domingo 09/12/2018
-#Martes 15/01/2019
+#Domingo 15/03/2020
+#Martes 29/12/2020
 #by: real strategy / rwam
 
 #Script diseñado para la extracción de url de páginas web, Mostrar los estatus que arrojan cada uno de dichos host y analizar los servicios que brinda con un scan usando nmap 
@@ -36,37 +36,13 @@ PASO N°2
 
 #Instalar el script host-extractor-v2
 
-git clone https://github.com/HackeRStrategy/Irparpaya-a.git
+git clone https://github.com/DonzoKepler/dk029.git
 
-cd Irparpaya-a
+cd dk029
 
 chmod +x real-host-v2.sh
 
 bash real-host-v2.sh
-
-
-
-DATOS:
-
-CANAL TELEGRAM:
-
-https://t.me/RealHackRWAM
-
-GRUPO TELEGRAM:
-
-https://t.me/RealStrategyRS
-
-CANAL YOUTUBE:
-
-https://youtube.com/RealHackRWAM
-
-GRUPO FACEBOOK:
-
-https://m.facebook.com/groups/142565756559228
-
-CANAL FACEBOOK
-
-https://m.facebook.com/RealHackRWAM
 
 
 
